@@ -32,17 +32,13 @@
 
 - I love creating seamless, user-friendly experiences in the projects that I pick up and work on.
 
+      
 <img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-</div>
+       
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZainNaqvi&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+
   
 <br />
-<div style="display: flex; align-items: center;">
-    
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HussnulMaab192&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-    
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HussnulMaab192&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
 
 
 
