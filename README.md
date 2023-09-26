@@ -1,6 +1,32 @@
-### Hey there, I'm Hussnul  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img height="70" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hussnul-Maab..;Nice+to+meet+you!&center=true&size=28">
+  </a>
+</h1>
+
+
+
+
+<h3 align="center">Hey! 👋 I'm Hussnul-Maab. 😄 </h3>
+<h4 align="center">Mobile App Developer</h4>
+<br>
+
 I have been a Software Engineer for **4 years** now. This includes **3 years** of **Mobile Application Development**. It also has been **2 years** since I started working with **Flutter**.
 My **Android** (**Kotlin**, **Java**) Development background includes working in several companies such as `Maps and Navigation`, `Social Media`, `Shopping`, `Fin-Tech`, and `E-commerce`.
+
+<p align="center">
+ 
+
+💻 I love writing code and learn anythings about it
+<br>
+
+
+📫 How to reach me: <a href="mailto: mabimalik192@gmail.com">mabimalik192@gmail.com</a>
+
+</p>
+
+
 
 * 🤗 About me
     - Flutter is my favorite thing 💙!
@@ -10,7 +36,7 @@ My **Android** (**Kotlin**, **Java**) Development background includes working in
     - Interested in Islam and History.
     
 
-* 📫 How to reach me:
+* 📫 Find me here:
  <div align="center">
 <a href="https://www.twitter.com/HussnulMaab192/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
