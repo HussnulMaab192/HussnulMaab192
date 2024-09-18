@@ -12,8 +12,8 @@
 <h4 align="center">Software Engineer</h4>
 <br>
 
-I have been a Software Engineer for **2 years** now. This includes **2 years** of **Mobile Application Development**. During this time, I've been working with working with **Flutter**.
-My **Android** Development background includes working in several companies such as `Maps and Navigation`, `Social Media`, `Shopping`, `Fin-Tech`, and `E-commerce`.I am skilled in **C++** and **SQL**, with a solid understanding of **Java** and **JavaScript**. Additionally, I hold a **Google Data Analytics** certification and have a background in creating dashboards and reports using **Power BI**.
+I have been a Software Engineer for **2 years**, specializing in **Mobile Application Development**.During this time, I have been working extensively with **Flutter**.
+My Development background includes working across various industries such as `Maps and Navigation`, `Social Media`, `Shopping`, `Fin-Tech`, and `E-commerce`.I am skilled in **C++** and **SQL**, with a solid understanding of **Java** and **JavaScript**. Additionally, I hold a **Google Data Analytics** certification and have a background in creating dashboards and reports using **Power BI**.
 
 <p align="center">
  
