@@ -4,15 +4,11 @@
     <img height="70" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hussnul-Maab..;Nice+to+meet+you!&center=true&size=28">
   </a>
 </h1>
-
-
-
-
 <h3 align="center">Hey! 👋 I'm Hussnul-Maab. 😄 </h3>
 <h4 align="center">Software Engineer</h4>
 <br>
 I am skilled in C++ and SQL, with a solid understanding of Java and JavaScript.
-I am a <h6>Software Engineer</h6> with <h6>two</h6> years of experience, specializing in <h6>Mobile Application Development</h6>, primarily using Flutter.My Development background includes working across various industries such as `Maps and Navigation`, `Social Media`, `Shopping`, `Fin-Tech`, and `E-commerce`.I am skilled in **C++** and **SQL**, with an understanding of **Java** and **JavaScript**. Additionally, I hold a **Google Data Analytics** certification and have a background in creating dashboards and reports using **Power BI**.
+I am a **Software Engineer** with **two** years of experience, specializing in Mobile Application Development, primarily using Flutter.My Development background includes working across various industries such as `Maps and Navigation`, `Social Media`, `Shopping`, `Fin-Tech`, and `E-commerce`.I am skilled in **C++** and **SQL**, with an understanding of **Java** and **JavaScript**. Additionally, I hold a **Google Data Analytics** certification and have a background in creating dashboards and reports using **Power BI**.
 
 <p align="center">
  
