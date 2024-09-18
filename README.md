@@ -12,13 +12,13 @@
 <h4 align="center">Mobile App Developer</h4>
 <br>
 
-I have been a Software Engineer for **4 years** now. This includes **3 years** of **Mobile Application Development**. It also has been **2 years** since I started working with **Flutter**.
-My **Android** (**Kotlin**, **Java**) Development background includes working in several companies such as `Maps and Navigation`, `Social Media`, `Shopping`, `Fin-Tech`, and `E-commerce`.
+I have been a Software Engineer for **2 years** now. This includes **2 years** of **Mobile Application Development**. During this time, I've been working with working with **Flutter**.
+My **Android** Development background includes working in several companies such as `Maps and Navigation`, `Social Media`, `Shopping`, `Fin-Tech`, and `E-commerce`.I am skilled in **C++** and **SQL**, with a solid understanding of **Java** and **JavaScript**. Additionally, I hold a **Google Data Analytics** certification and have a background in creating dashboards and reports using **Power BI**.
 
 <p align="center">
  
 
-💻 I love writing code and learn anythings about it
+💻 I love writing code,analyse the data and learn anythings about it
 <br>
 
 
