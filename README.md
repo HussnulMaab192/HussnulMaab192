@@ -11,9 +11,8 @@
 <h3 align="center">Hey! 👋 I'm Hussnul-Maab. 😄 </h3>
 <h4 align="center">Software Engineer</h4>
 <br>
-
-I have been a Software Engineer for **2 years**, specializing in **Mobile Application Development**.During this time, I have been working extensively with **Flutter**.
-My Development background includes working across various industries such as `Maps and Navigation`, `Social Media`, `Shopping`, `Fin-Tech`, and `E-commerce`.I am skilled in **C++** and **SQL**, with a solid understanding of **Java** and **JavaScript**. Additionally, I hold a **Google Data Analytics** certification and have a background in creating dashboards and reports using **Power BI**.
+I am skilled in C++ and SQL, with a solid understanding of Java and JavaScript.
+I am a **Software Engineer** with **two** years of experience, specializing in **Mobile Application Development**, primarily using Flutter.My Development background includes working across various industries such as `Maps and Navigation`, `Social Media`, `Shopping`, `Fin-Tech`, and `E-commerce`.I am skilled in **C++** and **SQL**, with an understanding of **Java** and **JavaScript**. Additionally, I hold a **Google Data Analytics** certification and have a background in creating dashboards and reports using **Power BI**.
 
 <p align="center">
  
