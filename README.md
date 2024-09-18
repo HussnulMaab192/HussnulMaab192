@@ -9,7 +9,7 @@
 
 
 <h3 align="center">Hey! 👋 I'm Hussnul-Maab. 😄 </h3>
-<h4 align="center">Mobile App Developer</h4>
+<h4 align="center">Software Engineer</h4>
 <br>
 
 I have been a Software Engineer for **2 years** now. This includes **2 years** of **Mobile Application Development**. During this time, I've been working with working with **Flutter**.
